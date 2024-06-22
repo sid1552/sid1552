@@ -3,8 +3,8 @@
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [siddharthsingh1552@gmail.com](mailto:siddharthsingh1552@gmail.com)
-* 🧠  I'm learning DSA & Web Development
-* 🤝  I'm open to collaborating on Web Development
+* 🧠  I'm frontend developer and currently learning IOS development
+* 🤝  I'm open to collaborating on Web Development & IOS Devlopment
 
 <a href="https://www.twitter.com/ragnogod7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ragnogod7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
