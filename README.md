@@ -43,5 +43,5 @@ src="https://img.shields.io/twitter/follow/ragnogod7?logo=twitter&style=for-the-
 
 ### Support
 
-<a href="https://buymeacoffee.com/siddharthsqn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"></a>
+<a href="https://buymeacoffee.com/siddharthsqn"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" height="50"></a>
 <a href="https://github.com/sponsors/sid1552"><img src="https://img.shields.io/badge/Sponsor_on_GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" height="50"></a>
