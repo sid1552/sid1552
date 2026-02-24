@@ -33,9 +33,7 @@
 <img src="https://img.shields.io/badge/Windows_OCR-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="OCR" />
 </p>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/sid1552" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/siddharth-singh-4b5ab724a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ragnogod7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Support
 
